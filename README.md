@@ -18,14 +18,10 @@
         <p>Sou um rapaz de 16 anos , atualmente sou barbeiro , mas ja fui atleta de base de futebol profissional , ja trabalhei em mercado e em empresas grandes e hoje em dia eu estou no ramo de barbeiro , sou apaixonado por Jesus e busco seguir os seus passos , todos os dias eu penso nele , acordo pensando nele e durmo pensando nele , sou falho , errante , mas isso é do homem mesmo , pois como diz aquele ditado , tudo que há de bom em mim é Cristo e tudo de mal sou eu mesmo</p>
         <p>Minhas habilidades</p>
         <div> 
-        dedicação
-        amor
-        paz
-        tranquilidade
-            <p class="badge bg-secondary">HTML</p>
-            <p class="badge bg-secondary">CSS</p>
-            <p class="badge bg-secondary">JavaScript</p>
-            <p class="badge bg-secondary">Scratch</p>
+            <p class="badge bg-secondary">dedicação</p>
+            <p class="badge bg-secondary">amor</p>
+            <p class="badge bg-secondary">paz</p>
+            <p class="badge bg-secondary">tranquilidade</p>
         </div>
     </header>
     <main class="container mt-5">

@@ -1,82 +1,20 @@
-<!DOCTYPE html>
-<html lang="pt-br">
+No desenvolvimento de seu portfólio, o uso do Bootstrap permitiu que diversos componentes visuais, como botões, cards e modais, fossem integrados com facilidade, sem que todo o código precisasse ser escrito do zero. Além disso, a documentação da biblioteca fornece exemplos prontos, que podem ser personalizados conforme o contexto de uso.
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="style.css">
-    <title>Meu portfólio</title>
-</head>
+Qual argumentação justifica que o uso do Bootstrap contribui na construção de sites reutilizando partes de soluções existentes?
 
-<body>
-    <header class="container text-center">
-        <img src="img/avatar-perfil.png" alt="avatar da Fernanda" class="rounded-circle" width="150" height="150"
-            srcset="">
-        <p class="lead">Eu sou luan_</p>
-        <h1>Eu sou barbeiro </h1>
-        <p>Sou um rapaz de 16 anos , atualmente sou barbeiro , mas ja fui atleta de base de futebol profissional , ja trabalhei em mercado e em empresas grandes e hoje em dia eu estou no ramo de barbeiro , sou apaixonado por Jesus e busco seguir os seus passos , todos os dias eu penso nele , acordo pensando nele e durmo pensando nele , sou falho , errante , mas isso é do homem mesmo , pois como diz aquele ditado , tudo que há de bom em mim é Cristo e tudo de mal sou eu mesmo</p>
-        <p>Minhas habilidades</p>
-        <div> 
-            <p class="badge bg-secondary">dedicação</p>
-            <p class="badge bg-secondary">amor</p>
-            <p class="badge bg-secondary">paz</p>
-            <p class="badge bg-secondary">tranquilidade</p>
-        </div>
-    </header>
-    <main class="container mt-5">
-        <h2>Meus projetos</h2>
-        <div class="row">
-            <!-- Projeto 1 -->
-            <div class="col-md-4">
-                <div class="card">
-                    <img src="img/projeto-1.png" class="card-img-top" alt="Imagem do projeto de biblioteca virtual">
-                    <div class="card-body">
-                        <h5 class="card-title">Minha Biblioteca: Uma Webpage Personalizada</h5>
-                        <p class="card-text">Este projeto é uma página web que apresenta uma lista dos meus livros
-                            favoritos, incluindo informações sobre os autores, datas de publicação e links para compra
-                            na Amazon. A página é estilizada com CSS para uma visualização agradável e usa fontes
-                            externas do Google Fonts.
-                        </p>
-                        <button type="button" class="btn btn-link">Veja o projeto</button>
-                    </div>
-                </div>
-            </div>
-            <!-- Projeto 2 -->
-            <div class="col-md-4">
-                <div class="card">
-                    <img src="img/projeto-2.png" class="card-img-top" alt="Imagem do projeto de biblioteca virtual">
-                    <div class="card-body">
-                        <h5 class="card-title">Decidindo o Futuro: Uma Jornada Interativa sobre a Inteligência
-                            Artificial</h5>
-                        <p class="card-text">Este projeto é um jogo interativo baseado em navegador que explora o
-                            impacto e as implicações da Inteligência Artificial (IA) na sociedade, permitindo que as
-                            pessoas jogadoras façam escolhas que influenciam o desenrolar de uma narrativa sobre o
-                            futuro da IA.</p>
-                        <button type="button" class="btn btn-link">Veja o projeto</button>
-                    </div>
-                </div>
-            </div>
+Selecione uma alternativa:
 
-            <!-- Projeto 3 -->
-            <div class="col-md-4">
-                <div class="card">
-                    <img src="img/projeto-3.png" class="card-img-top" alt="Imagem do projeto de biblioteca virtual">
-                    <div class="card-body">
-                        <h5 class="card-title">Explorando o Universo: Uma Aventura Interativa em Astronomia com Scratch
-                        </h5>
-                        <p class="card-text">EEste projeto Scratch cria uma experiência interativa educativa sobre
-                            astronomia, permitindo aos usuários explorar informações sobre constelações, eclipses, e a
-                            forma da Terra através de cenários dinâmicos e diálogos informativos.
-                        </p>
-                        <button type="button" class="btn btn-link">Veja o projeto</button>
-                    </div>
-                </div>
-            </div>
-        </div>
+A
+Porque permite focar somente na estética da página, sem se preocupar com estrutura.
 
-    </main>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
-</body>
+B
+Porque facilita o uso de modelos prontos, adaptáveis a diferentes ideias e necessidades.
 
-</html>
+C
+Porque ensina o estudante a programar tudo do zero, criando suas próprias bibliotecas.
+
+D
+Porque elimina a necessidade de entender HTML e CSS ao longo do projeto.
+
+E
+Porque limita a criatividade, oferecendo somente o que já está pronto na biblioteca.
